@@ -6,13 +6,6 @@
 </a>
 
 &nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hussamalzahabi/hussamalzahabi/blob/main/imgs/social/dark/stackoverflow.png">
-        <img src="https://github.com/hussamalzahabi/hussamalzahabi/blob/main/imgs/social/light/stackoverflow.png" width="42" height="42">
-    </picture>
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hussamalzahabi">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hussamalzahabi/hussamalzahabi/blob/main/imgs/social/dark/linkedin.png">

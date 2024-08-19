@@ -35,12 +35,12 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/hussamalzahabi/github-readme-stats">
+<!-- <a href="https://github.com/hussamalzahabi/github-readme-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hussamalzahabi&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=hussamalzahabi&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
     </picture>
-</a>
+</a> -->
 
 <a href="https://github.com/hussamalzahabi/github-readme-streak-stats">
     <picture>
